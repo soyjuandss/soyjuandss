@@ -19,7 +19,7 @@
 ## 🛠️ Habilidades e tecnologias
 
 ![Python](https://www.shieldcn.dev/badge/Python-Em_andamento-4B8BBE.svg?logo=python&variant=branded&size=sm)
-![HTML5](https://www.shieldcn.dev/badge/HTML5-N%C3%A3o_iniciado-E34C26.svg?logo=html5&variant=branded&size=sm)
+![HTML5](https://www.shieldcn.dev/badge/HTML5-Em_andamento-E34C26.svg?logo=html5&variant=branded&size=sm)
 ![CSS](https://www.shieldcn.dev/badge/CSS-N%C3%A3o_iniciado-663399.svg?logo=css&variant=branded&size=sm)
 
 ---
